@@ -1,6 +1,5 @@
 import copy
 from collections import Counter
-# https://github.com/netology-code/py-homeworks-basic/tree/master/7.files
 cook_book = {}
 static = ['ingredient_name', 'quantity', 'measure']
 
